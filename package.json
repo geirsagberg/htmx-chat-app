@@ -4,7 +4,9 @@
     "dev": "vite"
   },
   "dependencies": {
-    "hono": "^4.2.2"
+    "date-fns": "^3.6.0",
+    "hono": "^4.2.2",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@hono/vite-dev-server": "^0.10.0",
